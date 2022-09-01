@@ -6,7 +6,7 @@
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
 
-
+ ejercicio 1-3
  Ingresar 3 números y mostrar el número del medio, sólo si existe. En
  caso de que no exista también informarlo.
  Ejemplo:
